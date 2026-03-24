@@ -43,3 +43,7 @@ Tools Used
 * **Power BI** (Data Visualization & UI/X Design)
 * **DAX** (Custom Metrics & Calculations)
 * **Power Query** (Data Cleaning & Transformation)
+
+
+Project Files
+* **[Download Power BI File (.pbix)](aiJobsProject.pbix)** - Access the full interactive dashboard and data model.
