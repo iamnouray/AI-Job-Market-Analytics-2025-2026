@@ -5,23 +5,23 @@ AI Global Job Market Insights & Trends (2025-2026)
 --
 
 Project Overview
-This project provides a comprehensive analysis of the global AI job market. By leveraging data visualization, the dashboard explores how the demand for artificial intelligence skills is shaping salaries and work dynamics across different industries and regions.
+* This project provides a comprehensive analysis of the global AI job market. By leveraging data visualization, the dashboard explores how the demand for artificial intelligence skills is shaping salaries and work dynamics across different industries and regions.
 
 --
 
 Dataset Information
 
-The analysis is based on a comprehensive dataset of global AI job market trends (2025-2026). 
-**Data Source:** Kaggle , [Kaggle - AI Jobs Market 2025-2026](https://www.kaggle.com/datasets/alitaqishah/ai-jobs-market-2025-2026-salaries)
-**Size:** Over 1,500+ job records with detailed features.
-**Key Attributes:** Job Title, Company Type, Experience Level, Salary (USD), Remote Ratio, and Required Skills.
+* The analysis is based on a comprehensive dataset of global AI job market trends (2025-2026). 
+* **Data Source:** Kaggle , [Kaggle - AI Jobs Market 2025-2026](https://www.kaggle.com/datasets/alitaqishah/ai-jobs-market-2025-2026-salaries)
+* **Size:** Over 1,500+ job records with detailed features.
+* **Key Attributes:** Job Title, Company Type, Experience Level, Salary (USD), Remote Ratio, and Required Skills.
 
 
 What this Dashboard Answers:
-**Market Demand:** Which AI-related roles are currently the most sought after?
-**Salary Benchmarks:** How do experience levels and specific technical skills impact earning potential?
-**Work-Life Dynamics:** What is the distribution of Remote vs. On-site opportunities in the tech sector?
-**Global Growth:** Which countries are leading the surge in AI job availability?
+* **Market Demand:** Which AI-related roles are currently the most sought after?
+* **Salary Benchmarks:** How do experience levels and specific technical skills impact earning potential?
+* **Work-Life Dynamics:** What is the distribution of Remote vs. On-site opportunities in the tech sector?
+* **Global Growth:** Which countries are leading the surge in AI job availability?
 
 --
 
