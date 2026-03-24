@@ -6,7 +6,7 @@ Comprehensive Power BI dashboard & interactive analysis of the global AI job mar
 Project Overview
 This project provides a comprehensive analysis of the global AI job market. By leveraging data visualization, the dashboard explores how the demand for artificial intelligence skills is shaping salaries and work dynamics across different industries and regions.
 
----
+--
 
 Dataset Information
 
