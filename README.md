@@ -11,7 +11,7 @@ This project provides a comprehensive analysis of the global AI job market. By l
 Dataset Information
 
 The analysis is based on a comprehensive dataset of global AI job market trends (2025-2026). 
-**Data Source:** Kaggle
+**Data Source:** Kaggle , [Kaggle - AI Jobs Market 2025-2026](https://www.kaggle.com/datasets/alitaqishah/ai-jobs-market-2025-2026-salaries)
 **Size:** Over 1,500+ job records with detailed features.
 **Key Attributes:** Job Title, Company Type, Experience Level, Salary (USD), Remote Ratio, and Required Skills.
 
