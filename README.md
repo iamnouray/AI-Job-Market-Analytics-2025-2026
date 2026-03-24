@@ -1,5 +1,6 @@
 AI Global Job Market Insights & Trends (2025-2026)
-Comprehensive Power BI dashboard & interactive analysis of the global AI job market, focusing on salary benchmarks, regional growth, and work-type dynamics.
+
+* Comprehensive Power BI dashboard & interactive analysis of the global AI job market, focusing on salary benchmarks, regional growth, and work-type dynamics.
 
 --
 
