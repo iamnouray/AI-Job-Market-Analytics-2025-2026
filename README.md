@@ -22,6 +22,7 @@ DAX (Custom Metrics & Calculations)
 Power Query (Data Cleaning & Transformation)
 
 Dashboard Preview
+
 ![Market Overview](01_Overview.png)
 ![Skill Opportunities](02_Skills_Analysis.png)
 ![Global Market Growth](03_Global_Map.png)
