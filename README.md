@@ -6,6 +6,14 @@ Comprehensive Power BI dashboard & interactive analysis of the global AI job mar
 Project Overview
 This project provides a comprehensive analysis of the global AI job market. By leveraging data visualization, the dashboard explores how the demand for artificial intelligence skills is shaping salaries and work dynamics across different industries and regions.
 
+---
+Dataset Information
+The analysis is based on a comprehensive dataset of global AI job market trends (2025-2026). 
+**Data Source:** Kaggle
+**Size:** Over 1,500+ job records with detailed features.
+**Key Attributes:** Job Title, Company Type, Experience Level, Salary (USD), Remote Ratio, and Required Skills.
+
+
 What this Dashboard Answers:
 **Market Demand:** Which AI-related roles are currently the most sought after?
 **Salary Benchmarks:** How do experience levels and specific technical skills impact earning potential?
